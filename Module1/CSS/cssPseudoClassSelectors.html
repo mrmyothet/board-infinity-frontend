@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pseudo Class Selectors</title>
+    <style>
+      button:hover {
+        background-color: red;
+        color: white;
+      }
+      button:active {
+        background-color: blue;
+      }
+      a:visited {
+        color: green;
+      }
+      input:focus {
+        background-color: yellow;
+        color: green;
+      }
+      p:nth-child(2n) {
+        background-color: red;
+      }
+      p:nth-child(2n + 1) {
+        background-color: blue;
+      }
+      p:nth-child(even) {
+        color: white;
+      }
+      p:first-child {
+        font-size: 40px;
+      }
+      p:last-child {
+        font-size: 40px;
+      }
+    </style>
+  </head>
+  <body>
+    <p>One</p>
+    <p>Two</p>
+    <p>Three</p>
+    <p>Four</p>
+    <p>Five</p>
+    <p>Six</p>
+    <p>Seven</p>
+    <p>Eight</p>
+    <h1>Common Pseudo Class Selectors</h1>
+    <ul>
+      <li>:hover</li>
+      <li>:active</li>
+      <li>:visited</li>
+      <li>:focus</li>
+      <li>:nth child</li>
+    </ul>
+    <hr />
+    <button>Click Me</button>
+    <br />
+    <br />
+    <a href="###"> Click Here </a>
+    <br />
+    <br />
+    <form>
+      <input type="text" />
+    </form>
+  </body>
+</html>
