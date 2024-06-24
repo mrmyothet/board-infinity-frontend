@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Positions</title>
+    <style>
+      div {
+        height: 200px;
+        background-color: lightgray;
+        top: 5px;
+        bottom: 10px;
+      }
+      #first {
+        background-color: lightgray;
+      }
+      #second {
+        background-color: yellow;
+        opacity: 0.5;
+        position: relative;
+        /* top: 10px; */
+        /* bottom: 30px; */
+        /* left: 100px; */
+      }
+      #third {
+        background-color: blueviolet;
+        position: absolute;
+        top: 500px;
+        left: 100px;
+      }
+      #forth {
+        background-color: red;
+        height: 300px;
+      }
+      .fixed-div {
+        position: fixed;
+        top: 10px;
+        left: 400px;
+        background-color: lightgreen;
+        width: 200px;
+        height: 50px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>CSS Positions</h1>
+    <ul>
+      <li>Static</li>
+      <li>Relattive</li>
+      <li>Absolute</li>
+      <li>Fixed</li>
+    </ul>
+    <hr />
+    <div id="first">First Div</div>
+    <div id="second">Second Div</div>
+    <div id="third">Third Div</div>
+    <div id="forth">Forth Div</div>
+    <div>Fifth Div</div>
+    <div>Another Div</div>
+    <div>Another Div</div>
+    <div>Another Div</div>
+    <div>Another Div</div>
+    <div>Another Div</div>
+    <div>Another Div</div>
+    <div class="fixed-div">Fixed Div</div>
+  </body>
+</html>
