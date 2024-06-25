@@ -1,0 +1,20 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#one {
+  background-color: aqua;
+  padding: 20px;
+  text-align: justify;
+  /* text-decoration: line-through; */
+  /* text-decoration: underline overline; */
+  /* text-transform: capitalize; */
+  /* text-transform: uppercase; */
+  /* text-transform: lowercase; */
+  word-spacing: 5px;
+  letter-spacing: 2px;
+  line-height: 25px;
+  text-shadow: 2px 2px 2px red;
+  font-size: 20px;
+}
