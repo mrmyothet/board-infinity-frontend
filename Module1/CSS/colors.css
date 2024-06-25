@@ -1,0 +1,23 @@
+* {
+    /* background-color: coral; */
+    /* background-color: rgb(226, 212, 239); */
+    background-color: rgb(226, 212, 239, 0.8);
+  }
+  #r1 {
+    /* color: red; */
+    /* color: rgb(95, 111, 14); */
+    color: #00ff00;
+    background-color: black;
+  }
+  #e1 {
+    color: blue;
+    background-color: lightgray;
+  }
+  #r2 {
+    color: green;
+    background-color: azure;
+  }
+  #e2 {
+    color: brown;
+    background-color: white;
+  }

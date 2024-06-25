@@ -1,0 +1,20 @@
+div {
+    font-size: 100px;
+    /* font-size: 10vw; */
+    /* font-size: 10vh; */
+  }
+  body {
+    font-size: 30px;
+  }
+  #r1 {
+    font-size: 1rem;
+  }
+  #r2 {
+    font-size: 2rem;
+  }
+  #e1 {
+    font-size: 1em;
+  }
+  #e2 {
+    font-size: 2em;
+  }

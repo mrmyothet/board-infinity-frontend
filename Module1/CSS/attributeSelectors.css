@@ -1,0 +1,8 @@
+a[href^="http"] {
+    background-color: red;
+    color: white;
+  }
+  input[type="email"] {
+    background-color: green;
+    color: red;
+  }

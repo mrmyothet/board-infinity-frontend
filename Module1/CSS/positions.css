@@ -1,0 +1,35 @@
+div {
+    height: 200px;
+    background-color: lightgray;
+    top: 5px;
+    bottom: 10px;
+  }
+  #first {
+    background-color: lightgray;
+  }
+  #second {
+    background-color: yellow;
+    opacity: 0.5;
+    position: relative;
+    /* top: 10px; */
+    /* bottom: 30px; */
+    /* left: 100px; */
+  }
+  #third {
+    background-color: blueviolet;
+    position: absolute;
+    top: 500px;
+    left: 100px;
+  }
+  #forth {
+    background-color: red;
+    height: 300px;
+  }
+  .fixed-div {
+    position: fixed;
+    top: 10px;
+    left: 400px;
+    background-color: lightgreen;
+    width: 200px;
+    height: 50px;
+  }
