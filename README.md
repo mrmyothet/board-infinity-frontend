@@ -25,3 +25,19 @@
 - [CSS Forms](https://www.w3schools.com/css/css_form.asp)
 - [CSS Text Effects](https://www.w3schools.com/css/css3_text_effects.asp)
 - [CSS Object Fit & Position](https://css-tricks.com/on-object-fit-and-object-position/)
+
+#### Module 2
+
+- Getting Started with JavaScript
+- Variables, DataTypes and Operators
+- Manipulating the DOM
+- Advanced DOM Manipulation
+
+##### Reading:
+
+- [Understanding variables and data types](https://www.geeksforgeeks.org/variables-datatypes-javascript/)
+- [Using arithmetic and comparison operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
+- [Working with strings and string manipulation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
+- [Conditional statements (if/else, switch)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+- [Looping structures (for, while)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
+- [Functions and scope](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
