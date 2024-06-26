@@ -33,7 +33,7 @@
 - Manipulating the DOM
 - Advanced DOM Manipulation
 
-##### Reading:
+##### JavaScript - Reading:
 
 - [Understanding variables and data types](https://www.geeksforgeeks.org/variables-datatypes-javascript/)
 - [Using arithmetic and comparison operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
@@ -41,3 +41,12 @@
 - [Conditional statements (if/else, switch)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 - [Looping structures (for, while)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
 - [Functions and scope](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
+
+##### DOM - Reading:
+
+- [Understanding the Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [Accessing and manipulating DOM elements with JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+- [Modifying styles and attributes with JavaScript](https://www.w3schools.com/js/js_htmldom_css.asp)
+- [Responding to user input (clicks, key presses)](https://www.w3schools.com/js/js_events.asp)
+- [Text Effects](https://www.w3schools.com/css/css3_text_effects.asp)
+- [Creating interactive user interfaces with events](https://developer.mozilla.org/en-US/docs/Web/API/UI_Events)
