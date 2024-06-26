@@ -50,3 +50,8 @@
 - [Responding to user input (clicks, key presses)](https://www.w3schools.com/js/js_events.asp)
 - [Text Effects](https://www.w3schools.com/css/css3_text_effects.asp)
 - [Creating interactive user interfaces with events](https://developer.mozilla.org/en-US/docs/Web/API/UI_Events)
+- [Creating and removing DOM elements with JavaScript](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
+- [Using AJAX to load content dynamically](https://phppot.com/jquery/dynamic-content-load-using-jquery-ajax/)
+- [Handling errors and exceptions](https://www.tutorialspoint.com/javascript/javascript_error_handling.htm)
+
+##### [JSON Placeholder - Free fake and reliable API for testing and prototyping](https://jsonplaceholder.typicode.com/users)
