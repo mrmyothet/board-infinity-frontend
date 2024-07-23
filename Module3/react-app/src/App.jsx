@@ -4,6 +4,8 @@ import Footer from "./components/Footer";
 import Greeting from "./components/Greeting";
 import Counter from "./components/Counter";
 import Increment from "./components/Increment";
+import UseEffectCounter from "./components/UseEffectCounter";
+import Posts from "./components/Posts";
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
       <Greeting name="John" />
       <Counter />
       <Increment />
+      <UseEffectCounter />
+      <Posts />
     </div>
   );
 }

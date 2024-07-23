@@ -9,7 +9,8 @@ function Increment() {
 
   return (
     <>
-      <h1>Count : {count}</h1>
+      <h1>React setState</h1>
+      <h3>Count : {count}</h3>
       <button onClick={increment}>Click Me</button>
     </>
   );
