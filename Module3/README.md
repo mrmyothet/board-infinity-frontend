@@ -3,6 +3,7 @@ How to undo - installed curl and nodejs without using homebrew.
 - Remove them and install nodejs and curl from homebrew.
 
 ```cmd
+
 sudo rm -rf ~/.npm ~/.nvm ~/node_modules ~/.node-gyp ~/.npmrc ~/.node_repl_history
 sudo rm -rf /usr/local/bin/npm /usr/local/bin/node-debug /usr/local/bin/node /usr/local/bin/node-gyp
 sudo rm -rf /usr/local/share/man/man1/node* /usr/local/share/man/man1/npm*
@@ -32,5 +33,17 @@ yarn dev
 ```
 
 ```cmd
+
+Get-ExecutionPolicy -List
+Get-ExecutionPolicy -Scope CurrentUser
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+```
+
+```cmd
 npm create vite@latest my-react-app --template react
 ```
+
+### Readings
+
+- [Getting started] (https://react.dev/learn)
