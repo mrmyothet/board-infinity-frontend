@@ -55,3 +55,9 @@
 - [Handling errors and exceptions](https://www.tutorialspoint.com/javascript/javascript_error_handling.htm)
 
 ##### [JSON Placeholder - Free fake and reliable API for testing and prototyping](https://jsonplaceholder.typicode.com/users)
+
+#### Module 3 - Readings
+
+- [React useEffect Hook](https://www.robinwieruch.de/react-useeffect-hook/)
+- [Making API Calls with useEffect Hook](https://www.digitalocean.com/community/tutorials/how-to-call-web-apis-with-the-useeffect-hook-in-react)
+- []
