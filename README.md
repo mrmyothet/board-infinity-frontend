@@ -60,4 +60,5 @@
 
 - [React useEffect Hook](https://www.robinwieruch.de/react-useeffect-hook/)
 - [Making API Calls with useEffect Hook](https://www.digitalocean.com/community/tutorials/how-to-call-web-apis-with-the-useeffect-hook-in-react)
-- []
+- [Redux for Beginners – The Brain-Friendly Guide to Learning Redux](https://www.freecodecamp.org/news/redux-for-beginners-the-brain-friendly-guide-to-redux/)
+- [Understanding Redux: A tutorial with examples](https://blog.logrocket.com/understanding-redux-tutorial-examples/)
