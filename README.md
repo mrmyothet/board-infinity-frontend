@@ -62,3 +62,13 @@
 - [Making API Calls with useEffect Hook](https://www.digitalocean.com/community/tutorials/how-to-call-web-apis-with-the-useeffect-hook-in-react)
 - [Redux for Beginners – The Brain-Friendly Guide to Learning Redux](https://www.freecodecamp.org/news/redux-for-beginners-the-brain-friendly-guide-to-redux/)
 - [Understanding Redux: A tutorial with examples](https://blog.logrocket.com/understanding-redux-tutorial-examples/)
+
+---
+
+## Accomplishment Certificates
+
+- [.NET Full Stack Foundation](https://coursera.org/share/1acac88129955a2bee32290ba1c9a8d5)
+- [Frontend Development using React](https://1drv.ms/b/s!ApTanr6lVq20hM0E2hH0EXI5OkoGtg?e=ytONfu)
+- [Backend Development for .Net Full Stack](https://coursera.org/share/15a764efe444f9ef5133413bb84fa8b4)
+
+#### [.NET FullStack Developer Specialization Certificate](https://1drv.ms/b/s!ApTanr6lVq20hM0F8FK3bdRIo7IXCw?e=iyu5WD)
